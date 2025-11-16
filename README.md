@@ -16,11 +16,11 @@ Prerequisites
 
 Quick start
 1. Clone repo or download single file:
-   git clone https://github.com/youruser/instachecker.git
+   git clone https://github.com/diggi333/instachecker.git
    cd instachecker
 
    OR download single file directly:
-   curl -L -o instachecker.py https://raw.githubusercontent.com/youruser/instachecker/main/instachecker.py
+   curl -L -o instachecker.py https://raw.githubusercontent.com/diggi333/instachecker/main/instachecker.py
 
 2. (Recommended) Create and activate virtualenv:
    python3 -m venv .venv
